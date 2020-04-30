@@ -28,6 +28,12 @@
 
 # Algorithm In Action:
 
+**Training Visualization** :
+
+![](/Utilities/Training-Visualization.gif)
+
+**Training Output** :
+
 I Have Just Loaded The Trained Weights, And Have Executed The Code With 0 Epochs. (Hence, The Variation Of Error Isn't Displayed)
 
 ![](/Utilities/Trained-Output.png)
