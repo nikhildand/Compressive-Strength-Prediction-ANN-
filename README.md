@@ -22,4 +22,6 @@
 
 6) It Is Pretty Much An Implementation Of A Dense Neural Network With 2 Hidden Layer, With Each Node Consisting Of 25 Node's (Neurons), With ReLu As An Activation Function For The Hidden Layers, And Linear Activation Function For The Last Layer With One Node Since, It Is A Regression Problem.
 
+![](/Utilities/Sigmoid-ReLU-and-soft-ReLU-functions.png)
+
 7) A Scatter Plot Between Actual Strength To Predictions Of Test Data's Strength Of Concrete Was Plotted On X & Y Axis Respectively. The Closer They Are To The X=Y Line The Better Are The Predictions. (**Current** R2 Score : 0.7137, Which Could Change In Future Updates.)
