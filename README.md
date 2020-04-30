@@ -20,7 +20,7 @@
 
 5) **Cost Function Used** : Mean Absolute Percentage Error, **Optimizer Used** : Adam (Gradient Descent), With Learning Rate = 0.001, **Batch Size Used** : 32, I Dont Remember The Number Of Epochs I Had To Run It For.
 
-6) It Is Pretty Much An Implementation Of A Dense Neural Network With 2 Hidden Layer, With Each Node Consisting Of 25 Node's (Neurons), With ReLu As An Activation Function For The Hidden Layers, And Linear Activation Function For The Last Layer With One Node Since, It Is A Regression Problem.
+6) It Is Pretty Much An Implementation Of A Dense Neural Network With 2 Hidden Layer, With Each Node Consisting Of 25 Node's (Neurons), With **ReLu As An Activation Function For The Hidden Layers**, And **Linear Activation Function For The Last Layer** With One Node Since, It Is A Regression Problem.
 
 ![](/Utilities/Sigmoid-ReLU-and-soft-ReLU-functions.png)
 
