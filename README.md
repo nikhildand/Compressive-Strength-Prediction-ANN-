@@ -25,3 +25,9 @@
 ![](/Utilities/Sigmoid-ReLU-and-soft-ReLU-functions.png)
 
 7) A Scatter Plot Between Actual Strength To Predictions Of Test Data's Strength Of Concrete Was Plotted On X & Y Axis Respectively. The Closer They Are To The X=Y Line The Better Are The Predictions. (**Current** R2 Score : 0.7137, Which Could Change In Future Updates.)
+
+# Algorithm In Action:
+
+I Have Just Loaded The Trained Weights, And Have Executed The Code With 0 Epochs. (Hence, The Variation Of Error Isn't Displayed)
+
+![](/Utilities/Trained-Output.png)
